@@ -1,6 +1,6 @@
 // Ввести с консоли n целых чисел, на консоль вывести
 
-package com.company.HomeWork;
+package com.company.HomeWork.Task1;
 
 import java.util.Scanner;
 

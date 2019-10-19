@@ -1,6 +1,6 @@
 //Отобразить в окне консоли аргументы командной строки в обратном порядке
 
-package com.company.HomeWork;
+package com.company.HomeWork.Task1;
 
 public class Task1_2 {
 

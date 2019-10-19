@@ -1,6 +1,6 @@
 // Вывести пароль из командной строки и сравнить его со строкой образцом
 
-package com.company.HomeWork;
+package com.company.HomeWork.Task1;
 
 import java.util.Scanner;
 

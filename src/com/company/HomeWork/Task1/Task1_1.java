@@ -1,6 +1,6 @@
 //Поприветствовать любого пользователя при вводе его имени через командную строку
 
-package com.company.HomeWork;
+package com.company.HomeWork.Task1;
 
 import java.util.Scanner;
 

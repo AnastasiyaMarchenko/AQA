@@ -1,6 +1,6 @@
 // Вывести целые числа как аргументы командной строки подсчитать их суммы (произведения) и вывести результаты на консоль
 
-package com.company.HomeWork;
+package com.company.HomeWork.Task1;
 
 import java.util.Arrays;
 
